@@ -1,8 +1,8 @@
 #!/bin/bash
 
 file="webmonitoring/status.json"
-bot_token="6269039385:AAFG8_BkyqVHKTIsq6qLgY1WeBMF_96z8xo"
-chat_id="-1002184336839"
+bot_token="YOUR_BOT_TOKEN"
+chat_id="YOUR_CHAT_ID"
 websites=()
 
 function read_file {
